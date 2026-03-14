@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useNavigate, useParams, useLocation, Link } from 'react-router-dom';
-import { isValidDayId, getDayColumns, getIngredientsForRecipe } from '../lib/data';
+import { isValidDayId, getDayColumns, getIngredientsForRecipe, getRecipeInstruction } from '../lib/data';
 import RecipeList from '../components/RecipeList';
 
 const RECEPTVAL_STORAGE_KEY = 'veckomat-receptval';
@@ -20,7 +20,7 @@ export default function Receptval() {
 
   useEffect(() => {
     if (dayId && !isValidDayId(dayId)) {
-      navigate('/', { replace: true });
+      navigate('/vecka', { replace: true });
       return;
     }
     const fromState = state?.recipeNames;
@@ -45,26 +45,44 @@ export default function Receptval() {
   const hasRecipes = recipeNames.length > 0;
 
   return (
-    <>
-      <Link
-        to={`/dag/${dayId}`}
-        className="link-button secondary back-link"
-      >
-        Tillbaka till {day.label}
-      </Link>
-      <Link to="/" className="link-button secondary back-link" style={{ marginLeft: '0.5rem' }}>
-        Tillbaka till veckan
-      </Link>
-
-      <div className="day-view-header">
-        <h1>Recept för {day.label} – {day.protein}</h1>
+    <div className="max-w-2xl mx-auto px-4 py-6">
+      <div className="flex flex-wrap gap-2 mb-6">
+        <Link
+          to={`/dag/${dayId}`}
+          className="inline-flex items-center min-h-[48px] px-4 py-2 text-lg text-stone-700 bg-stone-200 rounded-lg hover:bg-stone-300 no-underline"
+        >
+          Tillbaka till {day.label}
+        </Link>
+        <Link
+          to="/vecka"
+          className="inline-flex items-center min-h-[48px] px-4 py-2 text-lg text-stone-600 rounded-lg hover:bg-stone-100 no-underline"
+        >
+          Veckan
+        </Link>
+        <Link
+          to="/"
+          className="inline-flex items-center min-h-[48px] px-4 py-2 text-lg text-stone-600 rounded-lg hover:bg-stone-100 no-underline"
+        >
+          Startsida
+        </Link>
       </div>
 
+      <h1 className="text-2xl font-bold text-stone-800 mb-6">
+        Recept för {day.label} – {day.protein}
+      </h1>
+
       {!hasRecipes ? (
-        <div className="empty-state">
-          <p>Ingen receptlista – välj en dag och klicka på &quot;Visa recept&quot;.</p>
-          <p>Eller så matchade inga recept dina svar. Försök ändra svaren eller välj en annan dag.</p>
-          <Link to="/" className="link-button">
+        <div className="text-center py-8 px-4 bg-white rounded-xl border border-stone-200">
+          <p className="text-lg text-stone-700 mb-2">
+            Ingen receptlista – välj en dag och klicka på &quot;Visa recept&quot;.
+          </p>
+          <p className="text-lg text-stone-600 mb-4">
+            Eller så matchade inga recept dina svar. Försök ändra svaren eller välj en annan dag.
+          </p>
+          <Link
+            to="/vecka"
+            className="inline-flex items-center min-h-[48px] px-6 py-3 text-lg font-medium text-amber-50 bg-amber-800 rounded-lg hover:bg-amber-900 no-underline"
+          >
             Tillbaka till veckan
           </Link>
         </div>
@@ -72,8 +90,9 @@ export default function Receptval() {
         <RecipeList
           recipeNames={recipeNames}
           getIngredients={getIngredientsForRecipe}
+          getInstruction={getRecipeInstruction}
         />
       )}
-    </>
+    </div>
   );
 }

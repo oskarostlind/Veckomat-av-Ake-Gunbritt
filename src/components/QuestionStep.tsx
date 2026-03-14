@@ -7,21 +7,25 @@ type Props = {
 };
 
 export default function QuestionStep({ question, value, onChange }: Props) {
+  const base = 'min-h-[48px] px-4 py-2 rounded-lg font-medium transition-colors ';
+  const unselected = 'bg-stone-200 text-stone-800 hover:bg-stone-300';
+  const selected = 'bg-amber-800 text-amber-50';
+
   if (question.type === 'yesno') {
     return (
-      <div className="question-step">
-        <p>{question.text}</p>
-        <div className="question-options">
+      <div className="mb-4 p-4 bg-white border border-stone-200 rounded-lg">
+        <p className="text-lg text-stone-800 mb-3 m-0">{question.text}</p>
+        <div className="flex flex-wrap gap-2">
           <button
             type="button"
-            className={value === true ? 'selected' : ''}
+            className={base + (value === true ? selected : unselected)}
             onClick={() => onChange(true)}
           >
             Ja
           </button>
           <button
             type="button"
-            className={value === false ? 'selected' : ''}
+            className={base + (value === false ? selected : unselected)}
             onClick={() => onChange(false)}
           >
             Nej
@@ -32,14 +36,14 @@ export default function QuestionStep({ question, value, onChange }: Props) {
   }
 
   return (
-    <div className="question-step">
-      <p>{question.text}</p>
-      <div className="question-options">
+    <div className="mb-4 p-4 bg-white border border-stone-200 rounded-lg">
+      <p className="text-lg text-stone-800 mb-3 m-0">{question.text}</p>
+      <div className="flex flex-wrap gap-2">
         {question.options.map((opt) => (
           <button
             key={opt}
             type="button"
-            className={value === opt ? 'selected' : ''}
+            className={base + (value === opt ? selected : unselected)}
             onClick={() => onChange(opt)}
           >
             {opt}

@@ -6,15 +6,34 @@ export type DayColumn = { id: string; label: string; protein: string };
 export type Question = 
   | { id: string; type: 'yesno'; text: string; filterKey: string }
   | { id: string; type: 'multichoice'; text: string; options: string[]; filterKey: string };
-export type Recipe = { id: string; name: string; protein: string; [key: string]: unknown };
+export type Difficulty = 'enkel' | 'medel' | 'avancerad';
+export type Recipe = { id: string; name: string; protein: string; difficulty?: Difficulty; [key: string]: unknown };
 
-const { dayColumns, recipeGrid, recipeIngredients, questions, recipes } = veckomatData as {
+export type RecipeInstruction = {
+  prepTime?: number;
+  cookTime?: number;
+  totalTime?: number;
+  difficulty?: Difficulty;
+  steps: string[];
+};
+
+const { dayColumns, recipeGrid, recipeIngredients, recipeInstructions, questions, recipes } = veckomatData as {
   dayColumns: DayColumn[];
   recipeGrid: string[][];
   recipeIngredients: Record<string, string[]>;
+  recipeInstructions?: Record<string, string | RecipeInstruction>;
   questions: Question[];
   recipes: Recipe[];
 };
+
+function normalizeInstruction(raw: string | RecipeInstruction | undefined): RecipeInstruction | null {
+  if (raw == null) return null;
+  if (typeof raw === 'string') {
+    return raw.trim() ? { steps: [raw.trim()] } : null;
+  }
+  if (Array.isArray(raw.steps) && raw.steps.length > 0) return raw;
+  return null;
+}
 
 export function getDayColumns(): DayColumn[] {
   return dayColumns;
@@ -103,6 +122,11 @@ export function filterRecipes(
 
 export function getIngredientsForRecipe(recipeName: string): string[] {
   return recipeIngredients[recipeName] ?? [];
+}
+
+/** Returns structured instructions for a recipe (times, difficulty, steps), or null. Supports both legacy string and new object format in JSON. */
+export function getRecipeInstruction(recipeName: string): RecipeInstruction | null {
+  return normalizeInstruction(recipeInstructions?.[recipeName]);
 }
 
 export function isValidDayId(dayId: string): boolean {

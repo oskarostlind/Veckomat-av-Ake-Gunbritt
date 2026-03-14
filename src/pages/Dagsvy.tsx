@@ -22,7 +22,7 @@ export default function Dagsvy() {
 
   useEffect(() => {
     if (dayId && !isValidDayId(dayId)) {
-      navigate('/', { replace: true });
+      navigate('/vecka', { replace: true });
     }
   }, [dayId, navigate]);
 
@@ -43,20 +43,33 @@ export default function Dagsvy() {
   }
 
   return (
-    <>
-      <Link to="/" className="link-button secondary back-link">
-        Tillbaka till veckan
-      </Link>
-      <div className="day-view-header">
-        <h1>
+    <div className="max-w-2xl mx-auto px-4 py-6">
+      <div className="flex flex-wrap gap-2 mb-6">
+        <Link
+          to="/vecka"
+          className="inline-flex items-center min-h-[48px] px-4 py-2 text-lg text-stone-700 bg-stone-200 rounded-lg hover:bg-stone-300 no-underline"
+        >
+          Tillbaka till veckan
+        </Link>
+        <Link
+          to="/"
+          className="inline-flex items-center min-h-[48px] px-4 py-2 text-lg text-stone-600 rounded-lg hover:bg-stone-100 no-underline"
+        >
+          Startsida
+        </Link>
+      </div>
+      <div className="mb-6">
+        <h1 className="text-2xl font-bold text-stone-800 m-0 mb-1">
           {day.label} – {day.protein}
         </h1>
-        <p>Svara gärna på frågorna nedan, eller klicka direkt på &quot;Visa recept&quot; för att se alla recept för denna dag.</p>
+        <p className="text-stone-600 text-lg m-0">
+          Svara gärna på frågorna nedan, eller klicka direkt på &quot;Visa recept&quot; för att se alla recept för denna dag.
+        </p>
       </div>
 
       {questions.length > 0 && (
-        <section className="questions-section">
-          <h2>Frågor (valfria)</h2>
+        <section className="mb-6">
+          <h2 className="text-lg font-semibold text-stone-800 mb-4">Frågor (valfria)</h2>
           {questions.map((q) => (
             <QuestionStep
               key={q.id}
@@ -70,11 +83,11 @@ export default function Dagsvy() {
 
       <button
         type="button"
-        className="link-button show-recipes-btn"
+        className="min-h-[48px] px-6 py-3 text-lg font-medium text-amber-50 bg-amber-800 rounded-lg hover:bg-amber-900 transition-colors"
         onClick={handleShowRecipes}
       >
         Visa recept
       </button>
-    </>
+    </div>
   );
 }
