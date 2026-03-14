@@ -28,97 +28,97 @@
   ],
   "recipeIngredients": {
     "Stroganoff": ["falukorv", "gul lök", "tomatpuré", "grädde", "ris", "salt", "svartpeppar"],
-    "Fiskpinnar": ["fiskpinnar", "potatis", "ärtor", "remouladsås", "smör", "salt"],
-    "Köttfärssås + spagetti": ["köttfärs", "gul lök", "vitlök", "krossade tomater", "tomatpuré", "spagetti", "oregano", "salt"],
-    "Ärtsoppa": ["gula ärtor", "rimmat fläsk", "gul lök", "mejram", "salt", "senap till servering"],
+    "Fiskpinnar": ["fiskpinnar", "potatis", "ärtor", "remouladsås"],
+    "Köttfärssås + spagetti": ["köttfärs", "gul lök", "vitlök", "krossade tomater", "tomatpuré", "spagetti", "oregano"],
+    "Ärtsoppa": ["gula ärtor", "rimmat fläsk", "gul lök", "mejram", "senap"],
     "Kassler m. svampsås": ["kassler", "champinjoner", "gul lök", "grädde", "mjölk", "soja", "potatis"],
     "Stekt lax": ["laxfilé", "smör", "citron", "salt", "svartpeppar", "potatis"],
     "Mormors kött (i gryta)": ["grytbitar av nöt", "gul lök", "morötter", "kalvfond", "grädde", "lagerblad", "potatis"],
-    "Pytt i panna": ["kokt potatis", "korv eller köttrester", "gul lök", "ägg", "rödbetor", "smör", "salt"],
-    "Korv m. senapssås": ["falukorv", "smör", "mjöl", "mjölk", "grov senap", "potatis", "salt"],
-    "Fisk i ugn m. kross. tom": ["vit fisk", "krossade tomater", "gul lök", "vitlök", "olivolja", "basilika", "salt", "potatis eller ris"],
-    "Köttfärs m. lök + potatis": ["köttfärs", "gul lök", "potatis", "smör", "salt", "svartpeppar"],
-    "Köttsoppa": ["högrev", "potatis", "morötter", "purjolök", "kålrot", "lagerblad", "buljong", "persilja"],
-    "Rislåda m. kassler": ["kokt ris", "kassler", "purjolök", "paprika", "grädde", "ost", "svartpeppar"],
+    "Pytt i panna": ["kokt potatis", "korv eller köttrester", "gul lök", "ägg", "rödbetor"],
+    "Korv m. senapssås": ["falukorv", "smör", "mjöl", "mjölk", "grov senap", "potatis"],
+    "Fisk i ugn m. kross. tom": ["vit fisk", "krossade tomater", "gul lök", "vitlök", "olivolja", "basilika"],
+    "Köttfärs m. lök + potatis": ["köttfärs", "gul lök", "potatis", "smör"],
+    "Köttsoppa": ["högrev", "potatis", "morötter", "purjolök", "kålrot", "lagerblad", "buljong"],
+    "Rislåda m. kassler": ["kokt ris", "kassler", "purjolök", "paprika", "grädde", "ost"],
     "Lax m. romsås": ["laxfilé", "crème fraiche", "stenbitsrom", "röd lök", "dill", "citron", "potatis"],
-    "Currykött": ["fläskkött eller grytkött", "gul lök", "curry", "grädde", "buljong", "ris", "salt"],
-    "Blodpudding": ["blodpudding", "bacon", "lingonsylt", "äpple", "smör"],
-    "Korv och makaroner": ["falukorv", "makaroner", "ketchup", "smör", "salt"],
-    "Fiskgratäng": ["vit fisk", "potatismos", "grädde", "smör", "ärtor", "ost", "salt", "citron"],
-    "Köttbullar": ["blandfärs", "gul lök", "ströbröd", "mjölk", "ägg", "potatis", "gräddsås", "salt"],
-    "Nikkaluoktasoppa": ["renkött eller nötkött", "potatis", "morötter", "purjolök", "buljong", "grädde", "svartpeppar"],
-    "Kall kassler m. röra": ["kassler", "crème fraiche", "majonnäs", "ananas", "paprika", "potatissallad", "svartpeppar"],
-    "Citronlax": ["laxfilé", "citron", "smör", "dill", "salt", "svartpeppar", "potatis"],
+    "Currykött": ["fläskkött eller grytkött", "gul lök", "curry", "grädde", "buljong", "ris"],
+    "Blodpudding": ["blodpudding", "bacon", "lingonsylt", "äpple"],
+    "Korv och makaroner": ["falukorv", "makaroner", "ketchup"],
+    "Fiskgratäng": ["vit fisk", "potatismos", "grädde", "smör", "ärtor", "ost"],
+    "Köttbullar": ["blandfärs", "gul lök", "ströbröd", "mjölk", "ägg", "potatis", "gräddsås"],
+    "Nikkaluoktasoppa": ["renkött eller nötkött", "potatis", "morötter", "purjolök", "buljong", "grädde"],
+    "Kall kassler m. röra": ["kassler", "crème fraiche", "majonnäs", "ananas", "paprika", "potatissallad"],
+    "Citronlax": ["laxfilé", "citron", "smör", "dill", "potatis"],
     "Biff stroganoff": ["strimlat nötkött", "gul lök", "tomatpuré", "grädde", "senap", "saltgurka", "ris"],
     "Pizza": ["pizzadeg", "tomatsås", "ost", "skinka eller valfri topping", "oregano"],
-    "Frukostkorv m. blomkål? vit sås?": ["frukostkorv", "blomkål", "smör", "mjöl", "mjölk", "potatis", "salt", "vitpeppar"],
-    "Madeleines fiskrätt (F)": ["vit fisk", "grädde", "dill", "citron", "purjolök", "salt", "potatis"],
-    "Basilikabiffar": ["köttfärs", "ägg", "ströbröd", "gul lök", "torkad eller färsk basilika", "grädde", "salt", "potatis"],
-    "Ernsts ångamat": ["lättsaltat kött eller fisk", "potatis", "morötter", "kål", "smör", "salt"],
+    "Frukostkorv m. blomkål? vit sås?": ["frukostkorv", "blomkål", "smör", "mjöl", "mjölk", "potatis"],
+    "Madeleines fiskrätt (F)": ["vit fisk", "grädde", "dill", "citron", "purjolök", "potatis"],
+    "Basilikabiffar": ["köttfärs", "ägg", "ströbröd", "gul lök", "basilika", "grädde", "potatis"],
+    "Ernsts ångamat": ["lättsaltat kött eller fisk", "potatis", "morötter", "kål", "smör"],
     "Kasslergryta m. curry (Erik)": ["kassler", "gul lök", "curry", "grädde", "paprika", "mango chutney", "ris"],
-    "Fisksoppa": ["blandad fisk", "potatis", "morötter", "purjolök", "fiskbuljong", "grädde", "dill", "salt"],
+    "Fisksoppa": ["blandad fisk", "potatis", "morötter", "purjolök", "fiskbuljong", "grädde", "dill"],
     "Kalops": ["högrev", "gul lök", "morötter", "kryddpeppar", "lagerblad", "kalvfond", "potatis"],
     "Hamburgare": ["nötfärs", "hamburgerbröd", "ost", "sallad", "tomat", "lök", "dressing"],
     "Varmkorv m. mos": ["varmkorv", "potatis", "mjölk", "smör", "rostad lök", "senap", "ketchup"],
-    "Rödspätta": ["rödspättafilé", "smör", "citron", "potatis", "ärtor", "salt"],
-    "Siris biffar m. svamp": ["köttfärs", "champinjoner", "gul lök", "grädde", "ägg", "ströbröd", "potatis", "salt"],
-    "Pax soppa m. kyckling": ["kyckling", "potatis", "morötter", "purjolök", "buljong", "grädde", "timjan", "salt"],
-    "Kotletter (stekta)": ["fläskkotletter", "smör", "salt", "svartpeppar", "potatis", "gräddsås"],
-    "Västkustsoppa (Åsa)": ["fisk", "räkor", "musslor eller extra fisk", "morötter", "purjolök", "grädde", "dill", "fiskfond"],
-    "Kycklingfilé + ris + grönsaker": ["kycklingfilé", "ris", "broccoli", "morötter", "smör", "salt", "svartpeppar"],
-    "Bakpotatis m. gräddfil + rom": ["bakpotatis", "gräddfil", "stenbitsrom", "röd lök", "dill", "salt"],
-    "Korvgratäng m. chili och mos": ["falukorv", "potatismos", "chilisås", "grädde", "ost", "gul lök", "salt"],
+    "Rödspätta": ["rödspättafilé", "smör", "citron", "potatis", "ärtor"],
+    "Siris biffar m. svamp": ["köttfärs", "champinjoner", "gul lök", "grädde", "ägg", "ströbröd", "potatis"],
+    "Pax soppa m. kyckling": ["kyckling", "potatis", "morötter", "purjolök", "buljong", "grädde", "timjan"],
+    "Kotletter (stekta)": ["fläskkotletter", "smör", "potatis", "gräddsås"],
+    "Västkustsoppa (Åsa)": ["fisk", "räkor", "morötter", "purjolök", "grädde", "dill", "fiskfond"],
+    "Kycklingfilé + ris + grönsaker": ["kycklingfilé", "ris", "broccoli", "morötter"],
+    "Bakpotatis m. gräddfil + rom": ["bakpotatis", "gräddfil", "stenbitsrom", "röd lök", "dill"],
+    "Korvgratäng m. chili och mos": ["falukorv", "potatismos", "chilisås", "grädde", "ost", "gul lök"],
     "Inlagd sill + ägg": ["inlagd sill", "ägg", "potatis", "gräddfil", "gräslök"],
-    "Lasagne": ["köttfärs", "lasagneplattor", "gul lök", "krossade tomater", "béchamelsås", "ost", "oregano"],
-    "Tomatsoppa (enkel)": ["krossade tomater", "gul lök", "vitlök", "grädde", "buljong", "basilika", "salt"],
-    "Pekkas rätt": ["skinka eller kassler", "potatis", "grädde", "gul lök", "ost", "svartpeppar"],
-    "Räksoppa (Sigrids)": ["räkor", "morötter", "purjolök", "fiskbuljong", "grädde", "dill", "tomatpuré", "salt"],
-    "Kyckling + ris + ananas + sallad": ["kyckling", "ris", "ananas", "isbergssallad", "paprika", "crème fraiche", "curry", "salt"],
-    "Palt": ["rå potatis", "vetemjöl", "kornmjöl", "salt", "fläskfyllning", "smör", "lingonsylt"],
-    "Kokihop": ["korv", "potatis", "morötter", "gul lök", "buljong", "salt", "svartpeppar"],
-    "Gädda el. annan fisk": ["gädda eller annan vit fisk", "smör", "citron", "salt", "potatis", "dill"],
-    "Köttfärsgratin m. spagetthi": ["köttfärs", "spagetti", "gul lök", "grädde", "ost", "ketchup eller tomatsås", "salt"],
-    "Svampsoppa": ["champinjoner", "gul lök", "smör", "grädde", "buljong", "timjan", "salt"],
-    "Bacon?": ["bacon", "potatis", "ägg", "tomat", "salt", "svartpeppar"],
-    "Räksallad": ["räkor", "salladsmix", "ägg", "gurka", "tomat", "majonnäs eller Rhode Island", "citron"],
-    "Kycklingfilé": ["kycklingfilé", "smör", "salt", "svartpeppar", "ris eller potatis", "grönsaker"],
-    "Sallader": ["salladsmix", "gurka", "tomat", "paprika", "proteinkälla", "dressing", "bröd"],
-    "Stekt korv + pot + morotsstuvn.": ["falukorv", "potatis", "morötter", "smör", "mjöl", "mjölk", "salt"],
-    "Fåraherdens paj": ["köttfärs", "gul lök", "morötter", "tomatpuré", "potatismos", "ost", "salt"],
+    "Lasagne": ["köttfärs", "lasagneplattor", "gul lök", "krossade tomater", "béchamelsås", "ost"],
+    "Tomatsoppa (enkel)": ["krossade tomater", "gul lök", "vitlök", "grädde", "buljong", "basilika"],
+    "Pekkas rätt": ["skinka eller kassler", "potatis", "grädde", "gul lök", "ost"],
+    "Räksoppa (Sigrids)": ["räkor", "morötter", "purjolök", "fiskbuljong", "grädde", "dill", "tomatpuré"],
+    "Kyckling + ris + ananas + sallad": ["kyckling", "ris", "ananas", "isbergssallad", "paprika", "crème fraiche", "curry"],
+    "Palt": ["rå potatis", "vetemjöl", "kornmjöl", "fläskfyllning", "lingonsylt"],
+    "Kokihop": ["korv", "potatis", "morötter", "gul lök", "buljong"],
+    "Gädda el. annan fisk": ["gädda eller annan vit fisk", "smör", "citron", "potatis", "dill"],
+    "Köttfärsgratin m. spagetthi": ["köttfärs", "spagetti", "gul lök", "grädde", "ost", "tomatsås"],
+    "Svampsoppa": ["champinjoner", "gul lök", "smör", "grädde", "buljong", "timjan"],
+    "Bacon?": ["bacon", "potatis", "ägg", "tomat"],
+    "Räksallad": ["räkor", "salladsmix", "ägg", "gurka", "tomat", "dressing"],
+    "Kycklingfilé": ["kycklingfilé", "smör", "ris eller potatis", "grönsaker"],
+    "Sallader": ["salladsmix", "gurka", "tomat", "paprika", "proteinkälla", "dressing"],
+    "Stekt korv + pot + morotsstuvn.": ["falukorv", "potatis", "morötter", "smör", "mjöl", "mjölk"],
+    "Fåraherdens paj": ["köttfärs", "gul lök", "morötter", "tomatpuré", "potatismos", "ost"],
     "Chili con carne": ["köttfärs", "kidneybönor", "gul lök", "krossade tomater", "vitlök", "chili", "spiskummin", "ris"],
-    "Ellas skinksås t. pasta": ["rökt skinka", "grädde", "gul lök", "svartpeppar", "pasta", "ost"],
+    "Ellas skinksås t. pasta": ["rökt skinka", "grädde", "gul lök", "pasta", "ost"],
     "Räkpaj": ["pajskal", "räkor", "ägg", "grädde", "dill", "ost", "purjolök"],
-    "Kycklinggryta (Gullan)": ["kyckling", "gul lök", "paprika", "grädde", "buljong", "ris", "salt", "curry"],
+    "Kycklinggryta (Gullan)": ["kyckling", "gul lök", "paprika", "grädde", "buljong", "ris", "curry"],
     "Pajer": ["pajdeg", "ägg", "grädde", "ost", "valfri fyllning"],
-    "Ugnstekt falukorv": ["falukorv", "senap", "ost", "tomat", "potatismos", "salt"],
+    "Ugnstekt falukorv": ["falukorv", "senap", "ost", "tomat", "potatismos"],
     "Kåldolmar": ["vitkålsblad", "köttfärs", "kokt ris", "gul lök", "grädde", "sirap", "potatis"],
-    "Räksoppa": ["räkor", "morötter", "purjolök", "fiskbuljong", "grädde", "dill", "salt"],
-    "Heta grytan": ["fläskkött", "gul lök", "paprika", "grädde", "chilisås", "vitlök", "ris"],
-    "Fläskfilé i dragonsås": ["fläskfilé", "grädde", "dragon", "kalvfond", "smör", "potatis", "salt"],
-    "Eneborgs skinklåda": ["skinka", "potatis", "ägg", "grädde", "gul lök", "ost", "salt"],
-    "Köttfärsgratäng m. potatis": ["köttfärs", "potatis", "gul lök", "grädde", "ost", "salt", "svartpeppar"],
-    "Broccolisoppa?": ["broccoli", "gul lök", "buljong", "grädde", "smör", "salt", "svartpeppar"],
-    "Skinkgratäng m. pot": ["skinka", "potatis", "grädde", "ost", "gul lök", "salt"],
-    "Fläskfilé i ädelostsås": ["fläskfilé", "ädelost", "grädde", "smör", "potatis", "salt", "svartpeppar"],
+    "Räksoppa": ["räkor", "morötter", "purjolök", "fiskbuljong", "grädde", "dill"],
+    "Heta grytan": ["fläskkött", "gul lök", "paprika", "grädde", "chilisås", "ris"],
+    "Fläskfilé i dragonsås": ["fläskfilé", "grädde", "dragon", "kalvfond", "smör", "potatis"],
+    "Eneborgs skinklåda": ["skinka", "potatis", "ägg", "grädde", "gul lök", "ost"],
+    "Köttfärsgratäng m. potatis": ["köttfärs", "potatis", "gul lök", "grädde", "ost"],
+    "Broccolisoppa?": ["broccoli", "gul lök", "buljong", "grädde", "smör"],
+    "Skinkgratäng m. pot": ["skinka", "potatis", "grädde", "ost", "gul lök"],
+    "Fläskfilé i ädelostsås": ["fläskfilé", "ädelost", "grädde", "smör", "potatis"],
     "Omelett": ["ägg", "mjölk", "salt", "smör", "ost", "valfri fyllning"],
     "Köttfärspizza Catarina Romo": ["pizzadeg", "köttfärs", "tomatsås", "ost", "gul lök", "oregano"],
-    "Pannkaka": ["ägg", "mjölk", "vetemjöl", "smör", "salt", "sylt"],
-    "Bruna bönor + fläsk": ["bruna bönor", "stekt fläsk", "sirap", "salt", "svartpeppar"],
+    "Pannkaka": ["ägg", "mjölk", "vetemjöl", "smör", "sylt"],
+    "Bruna bönor + fläsk": ["bruna bönor", "stekt fläsk", "sirap"],
     "Porterkött": ["nötkött", "porter", "gul lök", "soja", "kalvfond", "morötter", "potatis"],
-    "Blöta m. rensav?": ["tunnbröd eller blötbröd", "renskav", "gul lök", "grädde", "smör", "salt"],
+    "Blöta m. rensav?": ["tunnbröd eller blötbröd", "renskav", "gul lök", "grädde", "smör"],
     "Köttfärspaj (Karins)": ["pajdeg", "köttfärs", "gul lök", "ägg", "grädde", "ost", "tomatpuré"],
-    "Plättar": ["ägg", "mjölk", "vetemjöl", "smör", "salt", "sylt"],
+    "Plättar": ["ägg", "mjölk", "vetemjöl", "smör", "sylt"],
     "Fläsklägg + rotmos": ["rimmat fläsklägg", "kålrot", "potatis", "morötter", "smör", "senap"],
-    "Skav m. lök": ["renskav eller viltskav", "gul lök", "grädde", "smör", "potatis", "salt"],
+    "Skav m. lök": ["renskav eller viltskav", "gul lök", "grädde", "smör", "potatis"],
     "Färdiglagad frysmat": ["fryst färdigrätt"],
-    "Sjömansbiff med köttfärs": ["köttfärs", "potatis", "gul lök", "buljong", "öl eller vatten", "lagerblad", "salt"],
-    "Makaronipudding": ["makaroner", "skinka eller korv", "ägg", "mjölk", "ost", "salt", "svartpeppar"],
+    "Sjömansbiff med köttfärs": ["köttfärs", "potatis", "gul lök", "buljong", "lagerblad"],
+    "Makaronipudding": ["makaroner", "skinka eller korv", "ägg", "mjölk", "ost"],
     "Flygande Jacob": ["kyckling", "bacon", "grädde", "chilisås", "banan", "jordnötter", "ris"],
     "Våfflor": ["vetemjöl", "mjölk", "ägg", "smör", "bakpulver", "sylt", "grädde"],
-    "Köttfärspannkaka": ["köttfärs", "ägg", "mjölk", "vetemjöl", "gul lök", "salt", "svartpeppar"],
-    "Sjömansbiff": ["nötkött", "potatis", "gul lök", "buljong", "öl", "lagerblad", "salt"],
-    "Lever": ["lever", "gul lök", "smör", "potatis", "salt", "svartpeppar"],
-    "Leverbiff": ["mald lever", "gul lök", "ägg", "ströbröd", "mjölk", "smör", "potatis", "salt"]
+    "Köttfärspannkaka": ["köttfärs", "ägg", "mjölk", "vetemjöl", "gul lök"],
+    "Sjömansbiff": ["nötkött", "potatis", "gul lök", "buljong", "öl", "lagerblad"],
+    "Lever": ["lever", "gul lök", "smör", "potatis"],
+    "Leverbiff": ["mald lever", "gul lök", "ägg", "ströbröd", "mjölk", "smör", "potatis"]
   },
   "recipeInstructions": {
     "Stroganoff": {
@@ -127,105 +127,1098 @@
       "totalTime": 25,
       "difficulty": "enkel",
       "steps": [
-        "Skiva korven och hacka löken.",
-        "Stek korv och lök i en stekpanna på medelhög värme i 5–7 minuter tills löken mjuknat och korven fått färg.",
-        "Tillsätt tomatpuré och rör runt i 1 minut.",
-        "Häll i grädde och låt allt sjuda i 5–8 minuter.",
-        "Smaka av med salt och peppar.",
-        "Servera med nykokt ris."
+        "Koka ris enligt förpackningen, oftast 12-15 minuter.",
+        "Skiva korv och hacka lök.",
+        "Stek korv och lök på medelvärme i 5-7 minuter tills korven fått färg.",
+        "Rör i tomatpuré och låt fräsa 1 minut.",
+        "Tillsätt grädde och låt sjuda 5-7 minuter. Smaka av och servera med ris."
       ]
     },
-    "Fiskpinnar": "Tillaga fiskpinnarna i ugn eller panna enligt anvisning. Servera med kokt potatis, ärtor och sås.",
-    "Köttfärssås + spagetti": "Bryn färs och lök. Tillsätt tomater och kryddor, låt sjuda 20 minuter. Servera med kokt spagetti.",
-    "Ärtsoppa": "Blötlägg ärtorna, koka med fläsk och kryddor tills soppan är mjuk och fyllig. Servera med senap.",
-    "Kassler m. svampsås": "Stek svamp och lök. Tillsätt grädde och soja, låt såsen koka ihop och servera till kassler och potatis.",
-    "Stekt lax": "Krydda laxen och stek den i smör tills den är precis genomstekt. Servera med potatis och citron.",
-    "Mormors kött (i gryta)": "Bryn köttet, tillsätt lök, fond och grönsaker. Låt sjuda länge tills köttet är mört och servera med potatis.",
-    "Pytt i panna": "Stek tärnad potatis, lök och kött tillsammans tills allt får färg. Servera med stekt ägg och rödbetor.",
-    "Korv m. senapssås": "Stek eller värm korven. Koka en vit sås och smaka av med senap. Servera med potatis.",
-    "Fisk i ugn m. kross. tom": "Lägg fisken i form, toppa med tomater, lök och kryddor. Baka i ugnen tills fisken är klar.",
-    "Köttfärs m. lök + potatis": "Stek färs och lök ordentligt. Servera med kokt eller stekt potatis.",
-    "Köttsoppa": "Koka köttet mört i buljong. Tillsätt rotfrukter och potatis och låt allt sjuda tills klart.",
-    "Rislåda m. kassler": "Blanda kokt ris med kassler, grädde och grönsaker i en form. Gratineras i ugnen tills gyllene.",
-    "Lax m. romsås": "Tillaga laxen i ugn eller panna. Rör ihop romsås av crème fraiche, rom, dill och lök och servera till.",
-    "Currykött": "Bryn köttet och löken. Tillsätt curry och grädde och låt puttra tills köttet är mört. Servera med ris.",
-    "Blodpudding": "Stek blodpuddingen gyllene i skivor. Servera med bacon, stekt äpple och lingonsylt.",
-    "Korv och makaroner": "Koka makaronerna och stek eller värm korven. Servera tillsammans med ketchup.",
-    "Fiskgratäng": "Lägg fisk i form, täck med mos och sås eller ost. Gratinera i ugnen tills allt är varmt och fått färg.",
-    "Köttbullar": "Blanda färs, lök, ägg och ströbröd. Rulla bullar, stek dem gyllene och servera med potatis och sås.",
-    "Nikkaluoktasoppa": "Koka köttet med rotfrukter och buljong tills allt är mjukt. Avsluta med grädde för rund smak.",
-    "Kall kassler m. röra": "Skiva kall kassler. Rör ihop en kall röra och servera med potatissallad eller kokt potatis.",
-    "Citronlax": "Lägg lax i form med citron och smör. Baka i ugnen och servera med potatis.",
-    "Biff stroganoff": "Bryn kött och lök, tillsätt tomatpuré, grädde och lite senap. Låt puttra och servera med ris.",
-    "Pizza": "Bred tomatsås på degen, lägg på ost och topping. Grädda i het ugn tills botten är klar.",
-    "Frukostkorv m. blomkål? vit sås?": "Stek eller ugnsbaka frukostkorv. Servera med kokt blomkål och en enkel vitsås.",
-    "Madeleines fiskrätt (F)": "Lägg fisk i form med purjolök, citron och grädde. Tillaga i ugn tills fisken är klar och servera med potatis.",
-    "Basilikabiffar": "Blanda färsen med basilika, lök och bindning. Forma biffar, stek dem och servera med potatis och sås.",
-    "Ernsts ångamat": "Ångkoka kött eller fisk tillsammans med potatis och grönsaker tills allt är mjukt. Servera med smör.",
-    "Kasslergryta m. curry (Erik)": "Fräs lök och curry, tillsätt kassler och grädde. Låt grytan småputtra och servera med ris.",
-    "Fisksoppa": "Koka upp buljong med grönsaker. Lägg i fisken sist och sjud försiktigt, avsluta med grädde och dill.",
-    "Kalops": "Bryn köttet och låt sedan sjuda länge med lök, kryddpeppar och lagerblad tills det är mört. Servera med potatis.",
-    "Hamburgare": "Forma färsen till burgare, stek eller grilla och servera i bröd med tillbehör.",
-    "Varmkorv m. mos": "Koka eller värm korven. Gör potatismos och servera med klassiska korvtillbehör.",
-    "Rödspätta": "Stek eller ugnsbaka rödspättan med smör och citron. Servera med potatis.",
-    "Siris biffar m. svamp": "Stek biffarna och gör en svampsås på champinjoner och grädde. Servera med potatis.",
-    "Pax soppa m. kyckling": "Koka kyckling och grönsaker i buljong. Tillsätt grädde och låt soppan sjuda tills den är klar.",
-    "Kotletter (stekta)": "Krydda kotletterna och stek dem gyllene. Servera med potatis och sås.",
-    "Västkustsoppa (Åsa)": "Koka en fiskbuljong med grönsaker och grädde. Tillsätt fisk och skaldjur mot slutet och servera med dill.",
-    "Kycklingfilé + ris + grönsaker": "Stek eller ugnsbaka kycklingen, koka riset och servera med grönsaker.",
-    "Bakpotatis m. gräddfil + rom": "Baka potatisarna i ugnen tills mjuka. Fyll med gräddfil, rom, dill och rödlök.",
-    "Korvgratäng m. chili och mos": "Lägg stekt korv i form, toppa med mos och chilisås. Gratineras i ugnen tills gyllene.",
-    "Inlagd sill + ägg": "Koka äggen och servera dem kalla tillsammans med sill, potatis och gräddfil.",
-    "Lasagne": "Varva köttfärssås, lasagneplattor och béchamelsås i en form. Toppa med ost och baka tills klar.",
-    "Tomatsoppa (enkel)": "Fräs lök och vitlök, tillsätt tomater och buljong. Mixa slät och runda av med grädde.",
-    "Pekkas rätt": "Blanda skinka, potatis och grädde i en form. Toppa med ost och gratinera tills klart.",
-    "Räksoppa (Sigrids)": "Koka grönsaker i buljong, tillsätt grädde och tomatpuré. Lägg i räkorna sist så de inte blir sega.",
-    "Kyckling + ris + ananas + sallad": "Stek eller ugnsbaka kycklingen. Servera med ris, ananas och en frisk sallad.",
-    "Palt": "Riv potatis, blanda med mjöl till en deg och fyll med fläsk. Koka palltarna tills de flyter upp och servera med smör och lingon.",
-    "Kokihop": "Koka korv, potatis och grönsaker tillsammans i buljong tills allt är mjukt och smakrikt.",
-    "Gädda el. annan fisk": "Tillaga fisken i panna eller ugn med smör och citron. Servera med potatis.",
-    "Köttfärsgratin m. spagetthi": "Blanda kokt spaghetti med stekt köttfärs och lite sås i en form. Toppa med ost och gratinera.",
-    "Svampsoppa": "Stek svampen med lök i smör. Tillsätt buljong och grädde, mixa gärna lätt och servera varm.",
-    "Bacon?": "Stek bacon knaprigt och servera med valfritt tillbehör som potatis och ägg.",
-    "Räksallad": "Lägg upp sallad och grönsaker på fat. Toppa med räkor, ägg och dressing.",
-    "Kycklingfilé": "Krydda och stek eller ugnsbaka kycklingfilén tills genomstekt. Servera med valfritt tillbehör.",
-    "Sallader": "Blanda salladsgrönsaker med valfria grönsaker och protein. Servera med dressing och bröd.",
-    "Stekt korv + pot + morotsstuvn.": "Stek korven, koka potatisen och gör en stuvning på morötter med smör, mjöl och mjölk.",
-    "Fåraherdens paj": "Lägg köttfärsröra i botten av en form, täck med mos och gratinera tills gyllene.",
-    "Chili con carne": "Bryn färs och lök, tillsätt tomater, bönor och kryddor. Låt sjuda och servera med ris.",
-    "Ellas skinksås t. pasta": "Fräs skinkan lätt, tillsätt grädde och peppar. Låt såsen koka ihop och servera med pasta.",
-    "Räkpaj": "Förgrädda pajskalet, fyll med räkor, äggstanning och ost. Grädda tills pajen stannat.",
-    "Kycklinggryta (Gullan)": "Bryn kycklingen med lök och paprika. Tillsätt grädde och kryddor, låt puttra och servera med ris.",
-    "Pajer": "Gör pajdeg, fyll med valfri fyllning och äggstanning. Grädda tills pajen är fast och gyllene.",
-    "Ugnstekt falukorv": "Skåra falukorven, fyll med senap och ost och baka i ugnen. Servera med mos.",
-    "Kåldolmar": "Förväll kålblad, fyll med färsblandning och stek eller baka dem. Servera med sås och potatis.",
-    "Räksoppa": "Koka upp en mild soppa på grönsaker, buljong och grädde. Tillsätt räkorna precis före servering.",
-    "Heta grytan": "Bryn kött och lök, tillsätt paprika och en het gräddsås. Låt puttra och servera med ris.",
-    "Fläskfilé i dragonsås": "Stek fläskfilén och låt den gå klart i en sås med grädde, fond och dragon. Servera med potatis.",
-    "Eneborgs skinklåda": "Varva potatis och skinka i en form, häll över äggstanning eller grädde och gratinera i ugnen.",
-    "Köttfärsgratäng m. potatis": "Varva stekt köttfärs och potatis i en form. Häll över grädde, toppa med ost och baka tills klart.",
-    "Broccolisoppa?": "Koka broccoli och lök mjuka i buljong. Mixa slät, tillsätt grädde och smaka av.",
-    "Skinkgratäng m. pot": "Blanda potatis och skinka i en form med grädde och ost. Gratinera tills mjuk och gyllene.",
-    "Fläskfilé i ädelostsås": "Stek fläskfilén och låt den sjuda klart i en gräddsås med ädelost. Servera med potatis.",
-    "Omelett": "Vispa ihop ägg, mjölk och salt. Stek försiktigt och fyll med ost eller annan fyllning.",
-    "Köttfärspizza Catarina Romo": "Bryn köttfärsen först. Lägg den på pizzadeg med tomatsås och ost och baka tills pizzan är klar.",
-    "Pannkaka": "Vispa ihop smeten och stek tunna pannkakor i smör. Servera med sylt.",
-    "Bruna bönor + fläsk": "Värm bönorna och stek fläsket knaprigt. Servera tillsammans.",
-    "Porterkött": "Låt köttet sjuda länge i porter, fond och lök tills det är riktigt mört. Servera med potatis.",
-    "Blöta m. rensav?": "Mjukgör brödet lätt och toppa med en krämig renskavsgryta med lök och grädde.",
-    "Köttfärspaj (Karins)": "Gör en köttfärsfyllning, lägg i pajskal och täck med äggstanning och ost. Grädda tills fast.",
-    "Plättar": "Vispa ihop smeten och grädda små plättar gyllene. Servera med sylt eller bär.",
-    "Fläsklägg + rotmos": "Koka fläsklägget mört. Koka rotfrukter, mosa dem och servera tillsammans med senap.",
-    "Skav m. lök": "Stek lök och skav snabbt i smör. Tillsätt grädde och låt puttra kort, servera med potatis.",
-    "Färdiglagad frysmat": "Värm den färdiga rätten enligt förpackningens anvisningar.",
-    "Sjömansbiff med köttfärs": "Varva stekt köttfärs, potatis och lök i en gryta med buljong. Låt puttra tills potatisen är mjuk.",
-    "Makaronipudding": "Blanda kokta makaroner med skinka eller korv och äggstanning. Grädda tills puddingen har satt sig.",
-    "Flygande Jacob": "Lägg kyckling i form, toppa med bacon, banan, grädde och chilisås. Baka i ugn och toppa med jordnötter.",
-    "Våfflor": "Vispa ihop smeten och grädda i våffeljärn. Servera med sylt och grädde.",
-    "Köttfärspannkaka": "Bryn färsen med lök, blanda med pannkakssmet och grädda i ugn eller panna tills fast.",
-    "Sjömansbiff": "Varva kött, lök och potatis med buljong och öl. Låt sjuda tills köttet är mört.",
-    "Lever": "Skär levern i bitar eller skivor, stek den snabbt med lök och servera med potatis.",
-    "Leverbiff": "Blanda mald lever med lök, ägg och ströbröd. Forma biffar och stek dem gyllene."
+    "Fiskpinnar": {
+      "prepTime": 5,
+      "cookTime": 20,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Sätt ugnen på 225°C eller stek fiskpinnarna i panna.",
+        "Koka potatis i lättsaltat vatten 15-20 minuter.",
+        "Tillaga fiskpinnarna enligt förpackning, vanligtvis 12-15 minuter i ugn.",
+        "Servera med potatis, ärtor och kall sås."
+      ]
+    },
+    "Köttfärssås + spagetti": {
+      "prepTime": 10,
+      "cookTime": 25,
+      "totalTime": 35,
+      "difficulty": "enkel",
+      "steps": [
+        "Hacka lök och vitlök.",
+        "Bryn köttfärsen 5-7 minuter, tillsätt lök och stek 3 minuter till.",
+        "Rör i tomatpuré, krossade tomater och kryddor. Låt sjuda 15-20 minuter.",
+        "Koka spagetti enligt förpackningen, oftast 8-11 minuter.",
+        "Servera såsen över spagettin."
+      ]
+    },
+    "Ärtsoppa": {
+      "prepTime": 10,
+      "cookTime": 120,
+      "totalTime": 130,
+      "difficulty": "medel",
+      "steps": [
+        "Blötlägg ärtorna kvällen innan om du använder torkade ärtor.",
+        "Koka upp ärtor, fläsk och lök i rikligt med vatten.",
+        "Sänk värmen och låt sjuda 1,5-2 timmar tills ärtorna kokat sönder.",
+        "Krydda med mejram och servera med senap."
+      ]
+    },
+    "Kassler m. svampsås": {
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka potatis 15-20 minuter.",
+        "Skiva svamp och hacka lök.",
+        "Stek svamp och lök i smör 5-6 minuter.",
+        "Häll i grädde, lite mjölk och soja. Låt såsen sjuda 5 minuter.",
+        "Värm kasslern i skivor och servera med potatis och svampsås."
+      ]
+    },
+    "Stekt lax": {
+      "prepTime": 5,
+      "cookTime": 15,
+      "totalTime": 20,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka potatis 15-20 minuter om du serverar det till.",
+        "Salta laxen lätt.",
+        "Stek laxen i smör 3-4 minuter per sida på medelvärme.",
+        "Pressa över citron och servera direkt."
+      ]
+    },
+    "Mormors kött (i gryta)": {
+      "prepTime": 15,
+      "cookTime": 90,
+      "totalTime": 105,
+      "difficulty": "medel",
+      "steps": [
+        "Skär köttet i bitar och bryn det i omgångar 6-8 minuter totalt.",
+        "Tillsätt lök, morot, fond och lagerblad.",
+        "Häll på vätska så det nästan täcker och låt sjuda under lock 1-1,5 timme.",
+        "Tillsätt grädde mot slutet och servera med kokt potatis."
+      ]
+    },
+    "Pytt i panna": {
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Tärna kokt potatis och kött eller korv.",
+        "Stek lök 2 minuter i smör.",
+        "Tillsätt potatis och kött och stek 8-10 minuter tills pytten fått fin yta.",
+        "Stek ägg separat och servera med rödbetor."
+      ]
+    },
+    "Korv m. senapssås": {
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka potatis 15-20 minuter.",
+        "Värm eller stek korven lätt.",
+        "Smält smör, vispa i mjöl och mjölk till en slät sås.",
+        "Låt såsen sjuda 3-5 minuter och smaksätt med senap.",
+        "Servera korven med potatis och senapssås."
+      ]
+    },
+    "Fisk i ugn m. kross. tom": {
+      "prepTime": 10,
+      "cookTime": 25,
+      "totalTime": 35,
+      "difficulty": "enkel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Lägg fisken i en ugnsform och fördela krossade tomater, lök och vitlök ovanpå.",
+        "Ringla över lite olja och krydda.",
+        "Tillaga mitt i ugnen 20-25 minuter tills fisken är klar.",
+        "Servera med ris eller potatis."
+      ]
+    },
+    "Köttfärs m. lök + potatis": {
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka eller stek potatisen 15-20 minuter.",
+        "Hacka lök och bryn köttfärsen 5 minuter.",
+        "Tillsätt lök och stek ytterligare 4-5 minuter.",
+        "Smaka av med salt och peppar och servera med potatis."
+      ]
+    },
+    "Köttsoppa": {
+      "prepTime": 20,
+      "cookTime": 90,
+      "totalTime": 110,
+      "difficulty": "medel",
+      "steps": [
+        "Lägg köttet i gryta med vatten och buljong, koka upp och skumma av.",
+        "Låt köttet sjuda 60 minuter.",
+        "Tillsätt rotfrukter, purjolök och potatis.",
+        "Koka vidare 25-30 minuter tills allt är mjukt.",
+        "Smaka av och servera varm."
+      ]
+    },
+    "Rislåda m. kassler": {
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
+      "difficulty": "enkel",
+      "steps": [
+        "Sätt ugnen på 200°C och koka riset enligt förpackning.",
+        "Blanda kokt ris med kassler, purjolök, paprika och grädde i en form.",
+        "Toppa med ost.",
+        "Gratinera 20-25 minuter tills lådan fått färg."
+      ]
+    },
+    "Lax m. romsås": {
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "difficulty": "enkel",
+      "steps": [
+        "Sätt ugnen på 200°C och lägg laxen i en form.",
+        "Tillaga laxen 15-18 minuter.",
+        "Blanda crème fraiche, rom, dill och finhackad rödlök till såsen.",
+        "Servera med kokt potatis."
+      ]
+    },
+    "Currykött": {
+      "prepTime": 10,
+      "cookTime": 35,
+      "totalTime": 45,
+      "difficulty": "medel",
+      "steps": [
+        "Bryn köttet 5-7 minuter.",
+        "Tillsätt lök och curry och låt fräsa 2 minuter.",
+        "Häll i grädde och lite buljong.",
+        "Låt sjuda 25 minuter tills köttet är mört. Servera med ris."
+      ]
+    },
+    "Blodpudding": {
+      "prepTime": 5,
+      "cookTime": 15,
+      "totalTime": 20,
+      "difficulty": "enkel",
+      "steps": [
+        "Skiva blodpuddingen.",
+        "Stek bacon knaprigt 5-6 minuter.",
+        "Stek blodpuddingen 2-3 minuter per sida.",
+        "Servera med lingonsylt och gärna stekt äpple."
+      ]
+    },
+    "Korv och makaroner": {
+      "prepTime": 5,
+      "cookTime": 15,
+      "totalTime": 20,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka makaronerna enligt förpackningen, 7-10 minuter.",
+        "Stek eller värm korven under tiden.",
+        "Häll av makaronerna och servera med korv och ketchup."
+      ]
+    },
+    "Fiskgratäng": {
+      "prepTime": 20,
+      "cookTime": 25,
+      "totalTime": 45,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 225°C.",
+        "Lägg fisk i en form och täck med potatismos.",
+        "Ringla över grädde eller sås och toppa med ost.",
+        "Gratinera 20-25 minuter tills allt är varmt och gyllene."
+      ]
+    },
+    "Köttbullar": {
+      "prepTime": 20,
+      "cookTime": 20,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Blanda färs, lök, ägg, ströbröd och kryddor.",
+        "Forma små köttbullar.",
+        "Stek dem i smör 8-10 minuter tills de är genomstekta.",
+        "Servera med potatis, sås och lingon."
+      ]
+    },
+    "Nikkaluoktasoppa": {
+      "prepTime": 15,
+      "cookTime": 75,
+      "totalTime": 90,
+      "difficulty": "medel",
+      "steps": [
+        "Koka köttet i buljong 45 minuter.",
+        "Tillsätt potatis, morötter och purjolök.",
+        "Låt soppan sjuda 25-30 minuter.",
+        "Runda av med grädde precis innan servering."
+      ]
+    },
+    "Kall kassler m. röra": {
+      "prepTime": 10,
+      "cookTime": 0,
+      "totalTime": 10,
+      "difficulty": "enkel",
+      "steps": [
+        "Skiva kasslern tunt.",
+        "Blanda crème fraiche, majonnäs, paprika och ananas till en kall röra.",
+        "Servera kasslern kall med röran och gärna potatissallad."
+      ]
+    },
+    "Citronlax": {
+      "prepTime": 5,
+      "cookTime": 20,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Lägg laxen i form med smör, citron och dill.",
+        "Baka 15-20 minuter tills laxen är genomstekt.",
+        "Servera med potatis."
+      ]
+    },
+    "Biff stroganoff": {
+      "prepTime": 10,
+      "cookTime": 25,
+      "totalTime": 35,
+      "difficulty": "medel",
+      "steps": [
+        "Koka riset först, 12-15 minuter.",
+        "Bryn kött och lök i het panna 5-6 minuter.",
+        "Tillsätt tomatpuré, senap och grädde.",
+        "Låt sjuda 10-15 minuter. Blanda gärna i finhackad saltgurka mot slutet."
+      ]
+    },
+    "Pizza": {
+      "prepTime": 15,
+      "cookTime": 12,
+      "totalTime": 27,
+      "difficulty": "enkel",
+      "steps": [
+        "Sätt ugnen på 225-250°C.",
+        "Kavla ut degen och bred på tomatsås.",
+        "Lägg på ost och topping.",
+        "Grädda 10-12 minuter tills botten är klar och osten bubblar."
+      ]
+    },
+    "Frukostkorv m. blomkål? vit sås?": {
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka potatis 15-20 minuter.",
+        "Koka blomkål i lättsaltat vatten 6-8 minuter tills den mjuknat.",
+        "Stek frukostkorven 8-10 minuter.",
+        "Gör en enkel vit sås genom att koka ihop smör, mjöl och mjölk 3-5 minuter.",
+        "Servera allt tillsammans."
+      ]
+    },
+    "Madeleines fiskrätt (F)": {
+      "prepTime": 10,
+      "cookTime": 25,
+      "totalTime": 35,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Lägg fisken i en smord form med purjolök och citron.",
+        "Häll över grädde och dill.",
+        "Tillaga 20-25 minuter tills fisken delar sig lätt med gaffel.",
+        "Servera med potatis."
+      ]
+    },
+    "Basilikabiffar": {
+      "prepTime": 15,
+      "cookTime": 15,
+      "totalTime": 30,
+      "difficulty": "medel",
+      "steps": [
+        "Blanda färs med ägg, ströbröd, lök och basilika.",
+        "Forma biffar.",
+        "Stek dem i smör 4-5 minuter per sida.",
+        "Servera med potatis och gärna en gräddsås."
+      ]
+    },
+    "Ernsts ångamat": {
+      "prepTime": 10,
+      "cookTime": 30,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Skär grönsaker i bitar.",
+        "Lägg kött eller fisk i ånginsats tillsammans med potatis och grönsaker.",
+        "Ångkoka 20-30 minuter beroende på råvara.",
+        "Servera med smör och lite salt."
+      ]
+    },
+    "Kasslergryta m. curry (Erik)": {
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka ris enligt förpackningen.",
+        "Fräs lök och curry 2 minuter.",
+        "Tillsätt kassler, paprika och grädde.",
+        "Låt grytan sjuda 10 minuter och smaka av med mango chutney."
+      ]
+    },
+    "Fisksoppa": {
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Koka potatis, morot och purjolök i fiskbuljong 15 minuter.",
+        "Tillsätt fisken i bitar och sjud försiktigt 5-7 minuter.",
+        "Rör ner grädde och dill på slutet.",
+        "Servera direkt."
+      ]
+    },
+    "Kalops": {
+      "prepTime": 15,
+      "cookTime": 120,
+      "totalTime": 135,
+      "difficulty": "medel",
+      "steps": [
+        "Bryn köttet runt om 6-8 minuter.",
+        "Tillsätt lök, kryddpeppar, lagerblad och vätska.",
+        "Låt sjuda under lock 1,5-2 timmar tills köttet är mört.",
+        "Servera med kokt potatis."
+      ]
+    },
+    "Hamburgare": {
+      "prepTime": 10,
+      "cookTime": 10,
+      "totalTime": 20,
+      "difficulty": "enkel",
+      "steps": [
+        "Forma färsen till burgare.",
+        "Stek eller grilla 3-4 minuter per sida.",
+        "Rosta gärna bröden lätt.",
+        "Servera med ost och valfria tillbehör."
+      ]
+    },
+    "Varmkorv m. mos": {
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka potatis 15-20 minuter och mosa med smör och mjölk.",
+        "Värm korven i vatten 5 minuter utan att koka hårt.",
+        "Servera med mos, rostad lök, senap och ketchup."
+      ]
+    },
+    "Rödspätta": {
+      "prepTime": 5,
+      "cookTime": 15,
+      "totalTime": 20,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka potatis om du vill ha det till, 15-20 minuter.",
+        "Stek rödspättan i smör 2-3 minuter per sida.",
+        "Pressa över citron och servera med ärtor."
+      ]
+    },
+    "Siris biffar m. svamp": {
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "difficulty": "medel",
+      "steps": [
+        "Blanda färsen och forma biffar.",
+        "Stek biffarna 4-5 minuter per sida.",
+        "Stek svamp separat 5 minuter och tillsätt grädde.",
+        "Låt svampsåsen sjuda 3-4 minuter och servera med biffarna."
+      ]
+    },
+    "Pax soppa m. kyckling": {
+      "prepTime": 15,
+      "cookTime": 30,
+      "totalTime": 45,
+      "difficulty": "medel",
+      "steps": [
+        "Koka upp buljong med potatis, morot och purjolök.",
+        "Låt grönsakerna sjuda 15 minuter.",
+        "Tillsätt kyckling i bitar och koka ytterligare 10 minuter.",
+        "Rör i grädde och timjan mot slutet."
+      ]
+    },
+    "Kotletter (stekta)": {
+      "prepTime": 5,
+      "cookTime": 20,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Krydda kotletterna.",
+        "Stek dem 4-5 minuter per sida.",
+        "Låt vila 2 minuter.",
+        "Servera med potatis och sås."
+      ]
+    },
+    "Västkustsoppa (Åsa)": {
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Koka grönsakerna i fiskfond 12-15 minuter.",
+        "Tillsätt grädde och låt koka upp.",
+        "Lägg i fiskbitar och sjud 5 minuter.",
+        "Vänd ner räkorna allra sist och servera med dill."
+      ]
+    },
+    "Kycklingfilé + ris + grönsaker": {
+      "prepTime": 10,
+      "cookTime": 25,
+      "totalTime": 35,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka riset enligt förpackning.",
+        "Stek eller ugnsbaka kycklingfiléerna 15-20 minuter tills innertemperaturen är 72°C.",
+        "Koka eller ånga grönsakerna 5-8 minuter.",
+        "Servera allt direkt."
+      ]
+    },
+    "Bakpotatis m. gräddfil + rom": {
+      "prepTime": 10,
+      "cookTime": 60,
+      "totalTime": 70,
+      "difficulty": "enkel",
+      "steps": [
+        "Sätt ugnen på 225°C.",
+        "Skrubba potatisarna och baka dem 50-60 minuter tills de är mjuka.",
+        "Skär ett kryss i varje potatis och fluffa upp innehållet.",
+        "Toppa med gräddfil, rom, dill och rödlök."
+      ]
+    },
+    "Korvgratäng m. chili och mos": {
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Gör potatismos och skiva korven.",
+        "Lägg korven i form, bred över chilisås och toppa med mos.",
+        "Strö över ost och gratinera 20-25 minuter."
+      ]
+    },
+    "Inlagd sill + ägg": {
+      "prepTime": 5,
+      "cookTime": 10,
+      "totalTime": 15,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka äggen 8-9 minuter och spola kalla.",
+        "Servera med sill, kokt potatis och gräddfil."
+      ]
+    },
+    "Lasagne": {
+      "prepTime": 20,
+      "cookTime": 45,
+      "totalTime": 65,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Gör en köttfärssås och en béchamelsås.",
+        "Varva såser och plattor i en form, toppa med ost.",
+        "Grädda 35-45 minuter tills lasagnen bubblar och plattorna är mjuka.",
+        "Låt vila 10 minuter före servering."
+      ]
+    },
+    "Tomatsoppa (enkel)": {
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Fräs lök och vitlök 2-3 minuter.",
+        "Tillsätt tomater och buljong och låt koka 10 minuter.",
+        "Mixa slät om du vill.",
+        "Rör i grädde och servera."
+      ]
+    },
+    "Pekkas rätt": {
+      "prepTime": 15,
+      "cookTime": 30,
+      "totalTime": 45,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Skiva potatis tunt och blanda med skinka eller kassler samt lök.",
+        "Lägg i form, häll över grädde och toppa med ost.",
+        "Gratinera 30 minuter tills potatisen är mjuk."
+      ]
+    },
+    "Räksoppa (Sigrids)": {
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "difficulty": "medel",
+      "steps": [
+        "Koka morot och purjolök i buljong 10 minuter.",
+        "Rör i tomatpuré och grädde.",
+        "Låt sjuda 5 minuter.",
+        "Lägg i räkorna sist och värm försiktigt 1 minut."
+      ]
+    },
+    "Kyckling + ris + ananas + sallad": {
+      "prepTime": 10,
+      "cookTime": 25,
+      "totalTime": 35,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka riset enligt förpackning.",
+        "Stek kycklingen 12-15 minuter tills genomstekt.",
+        "Skär ananas och blanda sallad.",
+        "Servera kycklingen med ris och sallad."
+      ]
+    },
+    "Palt": {
+      "prepTime": 30,
+      "cookTime": 45,
+      "totalTime": 75,
+      "difficulty": "avancerad",
+      "steps": [
+        "Riv potatis och krama ur vätskan.",
+        "Blanda med mjöl till en fast deg och forma kring fläskfyllning.",
+        "Lägg paltarna i sjudande vatten.",
+        "Koka 35-45 minuter tills de flyter upp och känns fasta.",
+        "Servera med smör och lingonsylt."
+      ]
+    },
+    "Kokihop": {
+      "prepTime": 10,
+      "cookTime": 30,
+      "totalTime": 40,
+      "difficulty": "enkel",
+      "steps": [
+        "Skär potatis, morot och lök i bitar.",
+        "Koka grönsakerna i buljong 15 minuter.",
+        "Lägg i korv och låt allt koka 10 minuter till.",
+        "Servera som en enkel gryta."
+      ]
+    },
+    "Gädda el. annan fisk": {
+      "prepTime": 5,
+      "cookTime": 20,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka potatis 15-20 minuter.",
+        "Stek fisken i smör 3-4 minuter per sida eller baka i ugn 15 minuter på 200°C.",
+        "Servera med dill och citron."
+      ]
+    },
+    "Köttfärsgratin m. spagetthi": {
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Koka spagetti 8-10 minuter och stek köttfärsen under tiden.",
+        "Blanda spagetti, färs och lite sås i en form.",
+        "Toppa med ost och gratinera 15-20 minuter."
+      ]
+    },
+    "Svampsoppa": {
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "difficulty": "enkel",
+      "steps": [
+        "Stek svamp och lök i smör 5-7 minuter.",
+        "Tillsätt buljong och låt koka 10 minuter.",
+        "Mixa lätt om du vill ha slätare soppa.",
+        "Rör i grädde och servera."
+      ]
+    },
+    "Bacon?": {
+      "prepTime": 5,
+      "cookTime": 10,
+      "totalTime": 15,
+      "difficulty": "enkel",
+      "steps": [
+        "Stek bacon på medelvärme 5-7 minuter tills knaprigt.",
+        "Servera med exempelvis stekt ägg och potatis."
+      ]
+    },
+    "Räksallad": {
+      "prepTime": 10,
+      "cookTime": 8,
+      "totalTime": 18,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka ägg 8-9 minuter och spola dem kalla.",
+        "Skölj sallad och skär grönsaker.",
+        "Lägg upp räkor, ägg och grönsaker.",
+        "Servera med dressing."
+      ]
+    },
+    "Kycklingfilé": {
+      "prepTime": 5,
+      "cookTime": 18,
+      "totalTime": 23,
+      "difficulty": "enkel",
+      "steps": [
+        "Krydda kycklingfilén.",
+        "Stek 6-7 minuter per sida eller baka i ugn på 200°C i 18-20 minuter.",
+        "Kontrollera att innertemperaturen är 72°C."
+      ]
+    },
+    "Sallader": {
+      "prepTime": 10,
+      "cookTime": 0,
+      "totalTime": 10,
+      "difficulty": "enkel",
+      "steps": [
+        "Skölj sallad och grönsaker.",
+        "Skär upp valfri proteinkälla.",
+        "Blanda allt och servera med dressing."
+      ]
+    },
+    "Stekt korv + pot + morotsstuvn.": {
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Koka potatis 15-20 minuter.",
+        "Koka morötter i skivor 8-10 minuter.",
+        "Gör stuvning med smör, mjöl och mjölk och blanda i morötterna.",
+        "Stek korven 8-10 minuter och servera allt tillsammans."
+      ]
+    },
+    "Fåraherdens paj": {
+      "prepTime": 20,
+      "cookTime": 25,
+      "totalTime": 45,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Stek köttfärsen med lök och morot 8-10 minuter.",
+        "Lägg färsen i botten av en form och täck med mos.",
+        "Toppa gärna med ost och gratinera 20-25 minuter."
+      ]
+    },
+    "Chili con carne": {
+      "prepTime": 10,
+      "cookTime": 30,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Bryn köttfärsen 5-7 minuter.",
+        "Tillsätt lök, vitlök, tomater, bönor och kryddor.",
+        "Låt sjuda 20 minuter.",
+        "Servera med ris."
+      ]
+    },
+    "Ellas skinksås t. pasta": {
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka pastan enligt förpackning.",
+        "Fräs lök och skinka 3-4 minuter.",
+        "Tillsätt grädde och låt sjuda 5 minuter.",
+        "Blanda med pastan eller servera ovanpå."
+      ]
+    },
+    "Räkpaj": {
+      "prepTime": 20,
+      "cookTime": 30,
+      "totalTime": 50,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Förgrädda pajskalet 10 minuter om du gör eget.",
+        "Fyll med räkor, purjolök och ost.",
+        "Häll över äggstanning och grädda 25-30 minuter."
+      ]
+    },
+    "Kycklinggryta (Gullan)": {
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Bryn kycklingbitar 5-6 minuter.",
+        "Tillsätt lök, paprika och curry.",
+        "Häll i grädde och lite buljong.",
+        "Låt grytan sjuda 15 minuter och servera med ris."
+      ]
+    },
+    "Pajer": {
+      "prepTime": 20,
+      "cookTime": 30,
+      "totalTime": 50,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Klä en form med pajdeg.",
+        "Fyll med valfri fyllning och äggstanning.",
+        "Grädda 25-30 minuter tills pajen satt sig."
+      ]
+    },
+    "Ugnstekt falukorv": {
+      "prepTime": 10,
+      "cookTime": 25,
+      "totalTime": 35,
+      "difficulty": "enkel",
+      "steps": [
+        "Sätt ugnen på 225°C.",
+        "Skåra falukorven och fyll med senap och ost.",
+        "Baka 20-25 minuter.",
+        "Servera med potatismos."
+      ]
+    },
+    "Kåldolmar": {
+      "prepTime": 30,
+      "cookTime": 45,
+      "totalTime": 75,
+      "difficulty": "avancerad",
+      "steps": [
+        "Förväll kålbladen 3-5 minuter tills de blir mjuka.",
+        "Blanda köttfärs med kokt ris och lök.",
+        "Fyll bladen och vik ihop till dolmar.",
+        "Stek dem lätt och baka sedan i ugn på 200°C i 30-35 minuter.",
+        "Servera med sås och potatis."
+      ]
+    },
+    "Räksoppa": {
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "difficulty": "medel",
+      "steps": [
+        "Koka grönsaker i buljong 10 minuter.",
+        "Tillsätt grädde och låt sjuda 5 minuter.",
+        "Lägg i räkorna sist och värm snabbt upp soppan utan att koka hårt."
+      ]
+    },
+    "Heta grytan": {
+      "prepTime": 10,
+      "cookTime": 30,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Bryn köttet 5-7 minuter.",
+        "Tillsätt lök, paprika och chilisås.",
+        "Häll på grädde och låt sjuda 20 minuter.",
+        "Servera med ris."
+      ]
+    },
+    "Fläskfilé i dragonsås": {
+      "prepTime": 10,
+      "cookTime": 25,
+      "totalTime": 35,
+      "difficulty": "medel",
+      "steps": [
+        "Putsa fläskfilén och skär i medaljonger.",
+        "Stek köttet 2-3 minuter per sida.",
+        "Tillsätt grädde, fond och dragon och låt sjuda 10 minuter.",
+        "Servera med potatis."
+      ]
+    },
+    "Eneborgs skinklåda": {
+      "prepTime": 15,
+      "cookTime": 35,
+      "totalTime": 50,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Varva potatis och skinka i en smord form.",
+        "Häll över grädde eller äggstanning och toppa med ost.",
+        "Grädda 30-35 minuter tills potatisen är mjuk."
+      ]
+    },
+    "Köttfärsgratäng m. potatis": {
+      "prepTime": 20,
+      "cookTime": 35,
+      "totalTime": 55,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Stek köttfärs och lök 8-10 minuter.",
+        "Skiva potatis tunt.",
+        "Varva färs och potatis i en form, häll över grädde och toppa med ost.",
+        "Grädda 30-35 minuter."
+      ]
+    },
+    "Broccolisoppa?": {
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Koka broccoli och lök i buljong 10 minuter.",
+        "Mixa slät eller grov efter smak.",
+        "Rör i grädde och låt sjuda 2 minuter innan servering."
+      ]
+    },
+    "Skinkgratäng m. pot": {
+      "prepTime": 15,
+      "cookTime": 35,
+      "totalTime": 50,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Skiva potatis och blanda med skinka och lök.",
+        "Lägg i en form, häll över grädde och toppa med ost.",
+        "Grädda 30-35 minuter tills potatisen är mjuk."
+      ]
+    },
+    "Fläskfilé i ädelostsås": {
+      "prepTime": 10,
+      "cookTime": 25,
+      "totalTime": 35,
+      "difficulty": "medel",
+      "steps": [
+        "Stek fläskfilén 2-3 minuter per sida.",
+        "Häll på grädde och smula i ädelost.",
+        "Låt sjuda 10 minuter tills såsen tjocknar lätt.",
+        "Servera med potatis."
+      ]
+    },
+    "Omelett": {
+      "prepTime": 5,
+      "cookTime": 10,
+      "totalTime": 15,
+      "difficulty": "enkel",
+      "steps": [
+        "Vispa ihop ägg, mjölk och salt.",
+        "Stek på låg till medelvärme 4-5 minuter.",
+        "Lägg i fyllning och vik ihop omeletten."
+      ]
+    },
+    "Köttfärspizza Catarina Romo": {
+      "prepTime": 15,
+      "cookTime": 15,
+      "totalTime": 30,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 225-250°C.",
+        "Bryn köttfärsen 6-8 minuter och krydda den.",
+        "Lägg tomatsås, ost och köttfärs på degen.",
+        "Grädda 10-15 minuter."
+      ]
+    },
+    "Pannkaka": {
+      "prepTime": 10,
+      "cookTime": 20,
+      "totalTime": 30,
+      "difficulty": "enkel",
+      "steps": [
+        "Vispa ihop smeten och låt den gärna vila 5 minuter.",
+        "Stek tunna pannkakor 1-2 minuter per sida.",
+        "Servera med sylt."
+      ]
+    },
+    "Bruna bönor + fläsk": {
+      "prepTime": 5,
+      "cookTime": 15,
+      "totalTime": 20,
+      "difficulty": "enkel",
+      "steps": [
+        "Stek fläsket 6-8 minuter tills det fått fin yta.",
+        "Värm de bruna bönorna försiktigt 5-7 minuter.",
+        "Servera tillsammans."
+      ]
+    },
+    "Porterkött": {
+      "prepTime": 15,
+      "cookTime": 150,
+      "totalTime": 165,
+      "difficulty": "avancerad",
+      "steps": [
+        "Bryn köttet runt om 6-8 minuter.",
+        "Tillsätt porter, fond, lök och kryddor.",
+        "Låt sjuda mycket försiktigt 2-2,5 timmar tills köttet är riktigt mört.",
+        "Servera med potatis."
+      ]
+    },
+    "Blöta m. rensav?": {
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
+      "difficulty": "medel",
+      "steps": [
+        "Stek lök i smör 2-3 minuter.",
+        "Tillsätt renskav och stek snabbt 3-4 minuter.",
+        "Häll på grädde och låt sjuda 5 minuter.",
+        "Servera med mjukt bröd eller blötbröd."
+      ]
+    },
+    "Köttfärspaj (Karins)": {
+      "prepTime": 20,
+      "cookTime": 35,
+      "totalTime": 55,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Förgrädda pajskalet 10 minuter om du gör eget.",
+        "Stek köttfärsen med lök och tomatpuré.",
+        "Fyll pajen, häll över äggstanning och toppa med ost.",
+        "Grädda 25 minuter."
+      ]
+    },
+    "Plättar": {
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Vispa ihop smeten.",
+        "Grädda plättar i plättlagg, cirka 1 minut per sida.",
+        "Servera med sylt eller bär."
+      ]
+    },
+    "Fläsklägg + rotmos": {
+      "prepTime": 15,
+      "cookTime": 120,
+      "totalTime": 135,
+      "difficulty": "medel",
+      "steps": [
+        "Koka fläsklägget i vatten 1,5-2 timmar tills det är mört.",
+        "Koka rotfrukter 25-30 minuter.",
+        "Mosa rotfrukterna med smör.",
+        "Servera med senap."
+      ]
+    },
+    "Skav m. lök": {
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Stek lök i smör 2-3 minuter.",
+        "Tillsätt skavet och stek snabbt 3-4 minuter.",
+        "Häll på grädde och låt sjuda 5 minuter.",
+        "Servera med potatis."
+      ]
+    },
+    "Färdiglagad frysmat": {
+      "prepTime": 2,
+      "cookTime": 8,
+      "totalTime": 10,
+      "difficulty": "enkel",
+      "steps": [
+        "Tillaga enligt förpackning i mikro eller ugn."
+      ]
+    },
+    "Sjömansbiff med köttfärs": {
+      "prepTime": 15,
+      "cookTime": 35,
+      "totalTime": 50,
+      "difficulty": "medel",
+      "steps": [
+        "Stek köttfärsen 6-8 minuter.",
+        "Skiva potatis och lök.",
+        "Varva färs, potatis och lök i gryta eller form med buljong.",
+        "Låt sjuda eller baka tills potatisen är mjuk, cirka 30 minuter."
+      ]
+    },
+    "Makaronipudding": {
+      "prepTime": 15,
+      "cookTime": 35,
+      "totalTime": 50,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C.",
+        "Koka makaronerna 6-8 minuter och blanda med skinka eller korv.",
+        "Häll över äggstanning och toppa gärna med ost.",
+        "Grädda 30-35 minuter."
+      ]
+    },
+    "Flygande Jacob": {
+      "prepTime": 15,
+      "cookTime": 25,
+      "totalTime": 40,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 225°C.",
+        "Lägg kyckling i en form och toppa med banan och knaperstekt bacon.",
+        "Blanda grädde och chilisås och häll över.",
+        "Baka 20-25 minuter och toppa med jordnötter före servering.",
+        "Servera med ris."
+      ]
+    },
+    "Våfflor": {
+      "prepTime": 10,
+      "cookTime": 15,
+      "totalTime": 25,
+      "difficulty": "enkel",
+      "steps": [
+        "Vispa ihop smeten.",
+        "Låt gärna smeten vila 5 minuter.",
+        "Grädda i våffeljärn 2-3 minuter per våffla.",
+        "Servera med sylt och grädde."
+      ]
+    },
+    "Köttfärspannkaka": {
+      "prepTime": 15,
+      "cookTime": 30,
+      "totalTime": 45,
+      "difficulty": "medel",
+      "steps": [
+        "Sätt ugnen på 200°C om du gör ugnsvariant.",
+        "Stek köttfärs och lök 6-8 minuter.",
+        "Blanda med pannkakssmet eller fördela i formen med smeten över.",
+        "Grädda 25-30 minuter tills pannkakan stannat."
+      ]
+    },
+    "Sjömansbiff": {
+      "prepTime": 15,
+      "cookTime": 90,
+      "totalTime": 105,
+      "difficulty": "medel",
+      "steps": [
+        "Bryn köttet 5-7 minuter.",
+        "Varva kött, potatis och lök i gryta.",
+        "Häll på buljong och öl.",
+        "Låt sjuda 1-1,5 timme tills köttet är mört och potatisen mjuk."
+      ]
+    },
+    "Lever": {
+      "prepTime": 10,
+      "cookTime": 10,
+      "totalTime": 20,
+      "difficulty": "enkel",
+      "steps": [
+        "Skiva levern om det behövs.",
+        "Stek lök 3 minuter.",
+        "Stek levern snabbt 2-3 minuter per sida så den inte blir torr.",
+        "Servera med potatis."
+      ]
+    },
+    "Leverbiff": {
+      "prepTime": 15,
+      "cookTime": 15,
+      "totalTime": 30,
+      "difficulty": "medel",
+      "steps": [
+        "Blanda leverfärsen med lök, ägg och ströbröd.",
+        "Forma biffar.",
+        "Stek 4-5 minuter per sida tills genomstekta.",
+        "Servera med potatis."
+      ]
+    }
   },
   "questions": [
     { "id": "q1", "type": "yesno", "text": "Har du fisk eller skaldjur hemma?", "filterKey": "hasFish" },
@@ -234,96 +1227,96 @@
   ],
   "recipes": [
     { "id": "r001", "name": "Stroganoff", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
-    { "id": "r002", "name": "Fiskpinnar", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb" },
-    { "id": "r003", "name": "Köttfärssås + spagetti", "protein": "Köttfärs", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r004", "name": "Ärtsoppa", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r005", "name": "Kassler m. svampsås", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r006", "name": "Stekt lax", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb" },
-    { "id": "r007", "name": "Mormors kött (i gryta)", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r008", "name": "Pytt i panna", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r009", "name": "Korv m. senapssås", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r010", "name": "Fisk i ugn m. kross. tom", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "medium" },
-    { "id": "r011", "name": "Köttfärs m. lök + potatis", "protein": "Köttfärs", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r012", "name": "Köttsoppa", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r013", "name": "Rislåda m. kassler", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r014", "name": "Lax m. romsås", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "medium" },
-    { "id": "r015", "name": "Currykött", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r016", "name": "Blodpudding", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r017", "name": "Korv och makaroner", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r018", "name": "Fiskgratäng", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium" },
-    { "id": "r019", "name": "Köttbullar", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r020", "name": "Nikkaluoktasoppa", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r021", "name": "Kall kassler m. röra", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r022", "name": "Citronlax", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "medium" },
-    { "id": "r023", "name": "Biff stroganoff", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r024", "name": "Pizza", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r025", "name": "Frukostkorv m. blomkål? vit sås?", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r026", "name": "Madeleines fiskrätt (F)", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium" },
-    { "id": "r027", "name": "Basilikabiffar", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r028", "name": "Ernsts ångamat", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r029", "name": "Kasslergryta m. curry (Erik)", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r030", "name": "Fisksoppa", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium" },
-    { "id": "r031", "name": "Kalops", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r032", "name": "Hamburgare", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r033", "name": "Varmkorv m. mos", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r034", "name": "Rödspätta", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb" },
-    { "id": "r035", "name": "Siris biffar m. svamp", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r036", "name": "Pax soppa m. kyckling", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r037", "name": "Kotletter (stekta)", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r038", "name": "Västkustsoppa (Åsa)", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium" },
-    { "id": "r039", "name": "Kycklingfilé + ris + grönsaker", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r040", "name": "Bakpotatis m. gräddfil + rom", "protein": "Diverse", "hasFish": true, "quick": false, "cookTime": "lång" },
-    { "id": "r041", "name": "Korvgratäng m. chili och mos", "protein": "Korv", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r042", "name": "Inlagd sill + ägg", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb" },
-    { "id": "r043", "name": "Lasagne", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r044", "name": "Tomatsoppa (enkel)", "protein": "Soppa", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r045", "name": "Pekkas rätt", "protein": "Fläsk/Skinka", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r046", "name": "Räksoppa (Sigrids)", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium" },
-    { "id": "r047", "name": "Kyckling + ris + ananas + sallad", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r048", "name": "Palt", "protein": "Diverse", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r049", "name": "Kokihop", "protein": "Korv", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r050", "name": "Gädda el. annan fisk", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "medium" },
-    { "id": "r051", "name": "Köttfärsgratin m. spagetthi", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r052", "name": "Svampsoppa", "protein": "Soppa", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r053", "name": "Bacon?", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r054", "name": "Räksallad", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb" },
-    { "id": "r055", "name": "Kycklingfilé", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r056", "name": "Sallader", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r057", "name": "Stekt korv + pot + morotsstuvn.", "protein": "Korv", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r058", "name": "Fåraherdens paj", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r059", "name": "Chili con carne", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r060", "name": "Ellas skinksås t. pasta", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r061", "name": "Räkpaj", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium" },
-    { "id": "r062", "name": "Kycklinggryta (Gullan)", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r063", "name": "Pajer", "protein": "Diverse", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r064", "name": "Ugnstekt falukorv", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r065", "name": "Kåldolmar", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r066", "name": "Räksoppa", "protein": "Soppa", "hasFish": true, "quick": false, "cookTime": "medium" },
-    { "id": "r067", "name": "Heta grytan", "protein": "Fläsk/Skinka", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r068", "name": "Fläskfilé i dragonsås", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r069", "name": "Eneborgs skinklåda", "protein": "Diverse", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r070", "name": "Köttfärsgratäng m. potatis", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r071", "name": "Broccolisoppa?", "protein": "Soppa", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r072", "name": "Skinkgratäng m. pot", "protein": "Fläsk/Skinka", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r073", "name": "Fläskfilé i ädelostsås", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r074", "name": "Omelett", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r075", "name": "Köttfärspizza Catarina Romo", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r076", "name": "Pannkaka", "protein": "Soppa", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r077", "name": "Bruna bönor + fläsk", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r078", "name": "Porterkött", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r079", "name": "Blöta m. rensav?", "protein": "Diverse", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r080", "name": "Köttfärspaj (Karins)", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r081", "name": "Plättar", "protein": "Soppa", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r082", "name": "Fläsklägg + rotmos", "protein": "Fläsk/Skinka", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r083", "name": "Skav m. lök", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": true, "cookTime": "medium" },
-    { "id": "r084", "name": "Färdiglagad frysmat", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r085", "name": "Sjömansbiff med köttfärs", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r086", "name": "Makaronipudding", "protein": "Fläsk/Skinka", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r087", "name": "Flygande Jacob", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r088", "name": "Våfflor", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r089", "name": "Köttfärspannkaka", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
-    { "id": "r090", "name": "Sjömansbiff", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "lång" },
-    { "id": "r091", "name": "Lever", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb" },
-    { "id": "r092", "name": "Leverbiff", "protein": "Diverse", "hasFish": false, "quick": false, "cookTime": "medium" }
+    { "id": "r002", "name": "Fiskpinnar", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r003", "name": "Köttfärssås + spagetti", "protein": "Köttfärs", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r004", "name": "Ärtsoppa", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "medel" },
+    { "id": "r005", "name": "Kassler m. svampsås", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r006", "name": "Stekt lax", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r007", "name": "Mormors kött (i gryta)", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "medel" },
+    { "id": "r008", "name": "Pytt i panna", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r009", "name": "Korv m. senapssås", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r010", "name": "Fisk i ugn m. kross. tom", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r011", "name": "Köttfärs m. lök + potatis", "protein": "Köttfärs", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r012", "name": "Köttsoppa", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "medel" },
+    { "id": "r013", "name": "Rislåda m. kassler", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r014", "name": "Lax m. romsås", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r015", "name": "Currykött", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r016", "name": "Blodpudding", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r017", "name": "Korv och makaroner", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r018", "name": "Fiskgratäng", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r019", "name": "Köttbullar", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r020", "name": "Nikkaluoktasoppa", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "medel" },
+    { "id": "r021", "name": "Kall kassler m. röra", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r022", "name": "Citronlax", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r023", "name": "Biff stroganoff", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r024", "name": "Pizza", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r025", "name": "Frukostkorv m. blomkål? vit sås?", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r026", "name": "Madeleines fiskrätt (F)", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r027", "name": "Basilikabiffar", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r028", "name": "Ernsts ångamat", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r029", "name": "Kasslergryta m. curry (Erik)", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r030", "name": "Fisksoppa", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r031", "name": "Kalops", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "medel" },
+    { "id": "r032", "name": "Hamburgare", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r033", "name": "Varmkorv m. mos", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r034", "name": "Rödspätta", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r035", "name": "Siris biffar m. svamp", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r036", "name": "Pax soppa m. kyckling", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r037", "name": "Kotletter (stekta)", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r038", "name": "Västkustsoppa (Åsa)", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r039", "name": "Kycklingfilé + ris + grönsaker", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r040", "name": "Bakpotatis m. gräddfil + rom", "protein": "Diverse", "hasFish": true, "quick": false, "cookTime": "lång", "difficulty": "enkel" },
+    { "id": "r041", "name": "Korvgratäng m. chili och mos", "protein": "Korv", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r042", "name": "Inlagd sill + ägg", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r043", "name": "Lasagne", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "medel" },
+    { "id": "r044", "name": "Tomatsoppa (enkel)", "protein": "Soppa", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r045", "name": "Pekkas rätt", "protein": "Fläsk/Skinka", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r046", "name": "Räksoppa (Sigrids)", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r047", "name": "Kyckling + ris + ananas + sallad", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r048", "name": "Palt", "protein": "Diverse", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "avancerad" },
+    { "id": "r049", "name": "Kokihop", "protein": "Korv", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r050", "name": "Gädda el. annan fisk", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r051", "name": "Köttfärsgratin m. spagetthi", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r052", "name": "Svampsoppa", "protein": "Soppa", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r053", "name": "Bacon?", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r054", "name": "Räksallad", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r055", "name": "Kycklingfilé", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r056", "name": "Sallader", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r057", "name": "Stekt korv + pot + morotsstuvn.", "protein": "Korv", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r058", "name": "Fåraherdens paj", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r059", "name": "Chili con carne", "protein": "Soppa", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r060", "name": "Ellas skinksås t. pasta", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r061", "name": "Räkpaj", "protein": "Fisk", "hasFish": true, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r062", "name": "Kycklinggryta (Gullan)", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r063", "name": "Pajer", "protein": "Diverse", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r064", "name": "Ugnstekt falukorv", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r065", "name": "Kåldolmar", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "avancerad" },
+    { "id": "r066", "name": "Räksoppa", "protein": "Soppa", "hasFish": true, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r067", "name": "Heta grytan", "protein": "Fläsk/Skinka", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r068", "name": "Fläskfilé i dragonsås", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r069", "name": "Eneborgs skinklåda", "protein": "Diverse", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r070", "name": "Köttfärsgratäng m. potatis", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r071", "name": "Broccolisoppa?", "protein": "Soppa", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r072", "name": "Skinkgratäng m. pot", "protein": "Fläsk/Skinka", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r073", "name": "Fläskfilé i ädelostsås", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r074", "name": "Omelett", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r075", "name": "Köttfärspizza Catarina Romo", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r076", "name": "Pannkaka", "protein": "Soppa", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r077", "name": "Bruna bönor + fläsk", "protein": "Fläsk/Skinka", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r078", "name": "Porterkött", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "avancerad" },
+    { "id": "r079", "name": "Blöta m. rensav?", "protein": "Diverse", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r080", "name": "Köttfärspaj (Karins)", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r081", "name": "Plättar", "protein": "Soppa", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r082", "name": "Fläsklägg + rotmos", "protein": "Fläsk/Skinka", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "medel" },
+    { "id": "r083", "name": "Skav m. lök", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },
+    { "id": "r084", "name": "Färdiglagad frysmat", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r085", "name": "Sjömansbiff med köttfärs", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r086", "name": "Makaronipudding", "protein": "Fläsk/Skinka", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r087", "name": "Flygande Jacob", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r088", "name": "Våfflor", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r089", "name": "Köttfärspannkaka", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" },
+    { "id": "r090", "name": "Sjömansbiff", "protein": "Kött/Kyckling/Fläsk", "hasFish": false, "quick": false, "cookTime": "lång", "difficulty": "medel" },
+    { "id": "r091", "name": "Lever", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb", "difficulty": "enkel" },
+    { "id": "r092", "name": "Leverbiff", "protein": "Diverse", "hasFish": false, "quick": false, "cookTime": "medium", "difficulty": "medel" }
   ]
 }
