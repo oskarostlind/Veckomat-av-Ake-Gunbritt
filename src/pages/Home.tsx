@@ -1,6 +1,8 @@
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { getTodayDayId, getDayColumns, getRecipesForDay, getIngredientsForRecipe, getRecipeInstruction } from '../lib/data';
 import RecipeList from '../components/RecipeList';
+import ValjAtMigModal from '../components/ValjAtMigModal';
 
 const dayNames: Record<string, string> = {
   man: 'Måndag',
@@ -14,6 +16,7 @@ const dayNames: Record<string, string> = {
 };
 
 export default function Home() {
+  const [valjAtMigOpen, setValjAtMigOpen] = useState(false);
   const todayId = getTodayDayId();
   const dayColumns = getDayColumns();
   const day = todayId ? dayColumns.find((c) => c.id === todayId) : null;
@@ -58,7 +61,16 @@ export default function Home() {
         )}
       </section>
 
-      <div className="pt-6 border-t border-stone-200">
+      <div className="pt-6 border-t border-stone-200 flex flex-col sm:flex-row gap-3">
+        {todayId && day && (
+          <button
+            type="button"
+            onClick={() => setValjAtMigOpen(true)}
+            className="inline-flex items-center justify-center min-h-[48px] px-6 py-3 text-lg font-medium text-amber-900 bg-amber-100 border-2 border-amber-400 rounded-lg hover:bg-amber-200 transition-colors"
+          >
+            Välj åt mig
+          </button>
+        )}
         <Link
           to="/vecka"
           className="inline-flex items-center justify-center min-h-[48px] px-6 py-3 text-lg font-medium text-amber-50 bg-amber-800 rounded-lg hover:bg-amber-900 transition-colors no-underline"
@@ -66,6 +78,16 @@ export default function Home() {
           Se veckans mat
         </Link>
       </div>
+
+      {todayId && day && (
+        <ValjAtMigModal
+          open={valjAtMigOpen}
+          onClose={() => setValjAtMigOpen(false)}
+          todayId={todayId}
+          todayProtein={day.protein}
+          dayLabel={dayLabel ?? day.label}
+        />
+      )}
     </div>
   );
 }

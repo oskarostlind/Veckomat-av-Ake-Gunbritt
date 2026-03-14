@@ -1221,9 +1221,9 @@
     }
   },
   "questions": [
-    { "id": "q1", "type": "yesno", "text": "Har du fisk eller skaldjur hemma?", "filterKey": "hasFish" },
-    { "id": "q2", "type": "yesno", "text": "Vill du laga något snabbt?", "filterKey": "quick" },
-    { "id": "q3", "type": "multichoice", "text": "Vilken matlagningstid passar idag?", "options": ["snabb", "medium", "lång"], "filterKey": "cookTime" }
+    { "id": "q1", "type": "yesno", "text": "Har du fisk eller skaldjur hemma att använda?", "filterKey": "hasFish", "forProteins": ["Fisk"] },
+    { "id": "q2", "type": "multichoice", "text": "Hur mycket tid har du att laga mat?", "options": ["snabb", "medium", "lång"], "filterKey": "cookTime", "forProteins": ["all"] },
+    { "id": "q3", "type": "multichoice", "text": "Vilken svårighetsnivå vill du ha?", "options": ["enkel", "medel", "avancerad"], "filterKey": "difficulty", "forProteins": ["all"] }
   ],
   "recipes": [
     { "id": "r001", "name": "Stroganoff", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "medium", "difficulty": "enkel" },

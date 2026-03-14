@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
 import {
   getDayColumns,
-  getQuestions,
+  getQuestionsForProtein,
   filterRecipes,
   isValidDayId,
 } from '../lib/data';
@@ -18,7 +18,7 @@ export default function Dagsvy() {
   const valid = dayId && isValidDayId(dayId);
   const dayColumns = getDayColumns();
   const day = dayColumns.find((c) => c.id === dayId);
-  const questions = getQuestions();
+  const questions = day ? getQuestionsForProtein(day.protein) : [];
 
   useEffect(() => {
     if (dayId && !isValidDayId(dayId)) {

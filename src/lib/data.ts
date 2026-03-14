@@ -4,8 +4,8 @@ const MAX_RECIPES_PER_DAY = 15;
 
 export type DayColumn = { id: string; label: string; protein: string };
 export type Question = 
-  | { id: string; type: 'yesno'; text: string; filterKey: string }
-  | { id: string; type: 'multichoice'; text: string; options: string[]; filterKey: string };
+  | { id: string; type: 'yesno'; text: string; filterKey: string; forProteins?: string[] }
+  | { id: string; type: 'multichoice'; text: string; options: string[]; filterKey: string; forProteins?: string[] };
 export type Difficulty = 'enkel' | 'medel' | 'avancerad';
 export type Recipe = { id: string; name: string; protein: string; difficulty?: Difficulty; [key: string]: unknown };
 
@@ -49,6 +49,16 @@ export function getRecipeIngredients(): Record<string, string[]> {
 
 export function getQuestions(): Question[] {
   return questions;
+}
+
+/** Returns questions relevant for the given protein (day type). Use forProteins: ["Fisk"] to show only on fish days, ["all"] or omit to show everywhere. */
+export function getQuestionsForProtein(protein: string): Question[] {
+  return questions.filter((q) => {
+    const forProteins = q.forProteins;
+    if (!forProteins || forProteins.length === 0) return true;
+    if (forProteins.includes('all')) return true;
+    return forProteins.includes(protein);
+  });
 }
 
 export function getRecipes(): Recipe[] {
