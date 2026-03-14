@@ -1,0 +1,46 @@
+{
+  "dayColumns": [
+    { "id": "man", "label": "Mån", "protein": "Korv" },
+    { "id": "tis", "label": "Tis", "protein": "Fisk" },
+    { "id": "ons", "label": "Ons", "protein": "Köttfärs" },
+    { "id": "tor", "label": "Tor", "protein": "Soppa" },
+    { "id": "fre", "label": "Fre", "protein": "Fläsk/Skinka" },
+    { "id": "lor", "label": "Lör", "protein": "Fisk" },
+    { "id": "son", "label": "Sön", "protein": "Kött/Kyckling/Fläskfilé" },
+    { "id": "reserv", "label": "Reserv", "protein": "Diverse" }
+  ],
+  "recipeGrid": [
+    ["Stroganoff", "Fiskpinnar", "Köttfärssås + spagetti", "Ärtsoppa", "Kassler m. svampsås", "Stekt lax", "Mormors kött (i gryta)", "Pytt i panna"],
+    ["Korv m. senapssås", "Fisk i ugn m. kross. tom", "Köttfärs m. lök + potatis", "Köttsoppa", "Rislåda m. kassler", "Lax m. romsås", "Currykött", "Blodpudding"],
+    ["Korv och makaroner", "Fiskgratäng", "Köttbullar", "Nikkaluoktasoppa", "Kall kassler m. röra", "Citronlax", "Biff stroganoff", "Pizza"],
+    ["Frukostkorv (m. blomkål? / vit sås?)", "Madeleines fiskrätt (F)", "Basilikabiffar", "Ernsts ångamat", "Kasslergryta m. curry (Erik)", "", "Kalops", "Hamburgare"],
+    ["Varmkorv m. mos", "", "Siris biffar m. svamp", "Pax soppa m. kyckling", "Kotletter (stekta)", "Fisksoppa", "Kycklingfilé + ris (+ stuvet?) grönsaker", "Bak. potatis m. gräddfil + rom"],
+    ["Korvgratäng m. chili och mos", "Rödspätta", "Lasagne", "Tomatsoppa (enkel)", "Pekkas rätt", "Västkustsoppa (Åsa)", "Kyckling + ris, ananas, sallad", "Palt"],
+    ["Kokihop", "Inlagd sill + ägg", "Köttfärsgratin m. spag.", "Svampsoppa", "Bacon (Erik: rört?)", "Räksoppa (Sigrids)", "Kycklingfilé", "Sallader"],
+    ["Stekt korv + pot, morotsstuvn.", "", "Fåraherdens paj", "Chili con carne", "Ellas skinksås t. pasta", "Räksallad", "Kycklinggryta (Gullan)", "Pajer"],
+    ["Ugnstekt falukorv", "Gädda el. annan fisk", "Kåldolmar", "Räksoppa", "Heta grytan", "Räkpaj", "Fläskfilé i dragonsås", "Eneborgs skinklåda"],
+    ["", "", "Köttfärsgratäng m. pot", "Broccoli-soppa / svårläst", "Skinkgratäng m. pot", "", "Fläskfilé i ädelostsås", "Omelett"],
+    ["", "", "Köttfärspizza C.P.", "Pannkaka", "Bruna bönor + fläsk", "", "Porterkött", "Blöta m. renskav?"],
+    ["", "", "Köttfärspaj", "Plättar", "Fläsklägg + rotmos", "", "Skav m. lök", "Färdiglagad frystmat"]
+  ],
+  "recipeIngredients": {
+    "Stroganoff": ["korv", "grädde", "tomatsås", "ris"],
+    "Fiskpinnar": ["fiskpinnar", "potatis", "räksås"],
+    "Köttfärssås + spagetti": ["köttfärs", "spagetti", "tomatsås", "lök"],
+    "Ärtsoppa": ["ärtor", "fläsk", "senap"],
+    "Köttbullar": ["köttfärs", "lök", "grädde", "potatis"],
+    "Pytt i panna": ["potatis", "kött", "lök", "ägg"]
+  },
+  "questions": [
+    { "id": "q1", "type": "yesno", "text": "Har du fisk hemma?", "filterKey": "hasFish" },
+    { "id": "q2", "type": "yesno", "text": "Vill du laga något snabbt?", "filterKey": "quick" },
+    { "id": "q3", "type": "multichoice", "text": "Vilken matlagningstid?", "options": ["snabb", "medium", "lång"], "filterKey": "cookTime" }
+  ],
+  "recipes": [
+    { "id": "r1", "name": "Stroganoff", "protein": "Korv", "hasFish": false, "quick": true, "cookTime": "medium" },
+    { "id": "r2", "name": "Fiskpinnar", "protein": "Fisk", "hasFish": true, "quick": true, "cookTime": "snabb" },
+    { "id": "r3", "name": "Köttfärssås + spagetti", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
+    { "id": "r4", "name": "Köttbullar", "protein": "Köttfärs", "hasFish": false, "quick": false, "cookTime": "medium" },
+    { "id": "r5", "name": "Pytt i panna", "protein": "Diverse", "hasFish": false, "quick": true, "cookTime": "snabb" }
+  ]
+}
